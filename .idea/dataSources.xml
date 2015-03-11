@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2719941948">
+    <data-source source="LOCAL" name="Rails pmbokdocs: development" uuid="52a24aa8-09d6-408a-a541-f8082ac12253">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:pmbokdocs_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails pmbokdocs: test" uuid="7b47b05a-cf49-469c-a2a7-e3915607e5b0">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:pmbokdocs_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails pmbokdocs: production" uuid="35a2e450-11a8-4f71-a963-ffb18900270c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:pmbokdocs_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
